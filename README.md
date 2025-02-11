@@ -1,59 +1,59 @@
-# 🗳️ Blockchain-Based Voting System
+# Blockchain-Based Voting System
 
 A secure, transparent, and decentralized voting platform built with modern web technologies and blockchain integration.
 
-## 🌟 Features
+## Features
 
 - **Dual User Types**
-  - 🗳️ **Voters**: Securely participate in elections.
-  - 🏢 **Organizations**: Create and manage elections.
+  - **Voters**: Securely participate in elections.
+  - **Organizations**: Create and manage elections.
 
 - **Secure Authentication**
-  - ✅ Email-based registration & login.
-  - 🔑 Role-based access control.
-  - 🔒 Password strength enforcement.
-  - 📧 Email verification.
+  - Email-based registration & login.
+  - Role-based access control.
+  - Password strength enforcement.
+  - Email verification.
 
 - **Blockchain Integration**
-  - 🔗 Immutable vote records.
-  - 📊 Transparent election results.
-  - 🏛️ Decentralized vote counting using Ethereum
+  - Immutable vote records.
+  - Transparent election results.
+  - Decentralized vote counting using Ethereum
 
 - **User-Friendly Interface**
-  - 🎨 Modern, responsive design.
-  - ⏳ Real-time updates.
-  - 🔄 Intuitive navigation.
-  - ✅ Instant form validation.
+  - Modern, responsive design.
+  - Real-time updates.
+  - Intuitive navigation.
+  - Instant form validation.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**
-  - ⚛️ React with TypeScript.
-  - 🎨 Tailwind CSS & Shadcn/ui for styling.
-  - 🔄 React Router for navigation.
+  - React with TypeScript.
+  - Tailwind CSS & Shadcn/ui for styling.
+  - React Router for navigation.
 
 - **Backend & Authentication**
-  - 🛠️ Supabase for backend services.
-  - 📡 Real-time database.
-  - 🔐 Secure authentication.
+  - Supabase for backend services.
+  - Real-time database.
+  - Secure authentication.
 
 - **Blockchain**
-  - ⛓️ **[Specify Blockchain: Ethereum.**
-  - 🏛️ **Smart contracts using Solidity**
-  - 🔄 **Decentralized transaction validation.**
+  - **[Specify Blockchain: Ethereum.**
+  - **Smart contracts using Solidity**
+  - **Decentralized transaction validation.**
 
 - **Development Tools**
-  - 🟦 TypeScript for type safety.
-  - 📏 ESLint & Prettier for code quality.
-  - 🛠️ Modern development environment.
+  -  TypeScript for type safety.
+  -  ESLint & Prettier for code quality.
+  -  Modern development environment.
 
-## 📋 Prerequisites
+##  Prerequisites
 
-- 📌 **Node.js** (v16+)
-- 📌 **npm** or **yarn**
-- 📌 **Supabase account**
-- 📌 **Metamask (for Ethereum)**
-- 📌 **Git**
+-  **Node.js** (v16+)
+-  **npm** or **yarn**
+-  **Supabase account**
+-  **Metamask (for Ethereum)**
+-  **Git**
 
 ## 🚀 Getting Started
 
@@ -69,8 +69,4 @@ A secure, transparent, and decentralized voting platform built with modern web t
 
 
 
-### 1️⃣ **Clone the repository**
-```bash
-git clone https://github.com/yourusername/blockchain-voting.git
-cd blockchain-voting
 
